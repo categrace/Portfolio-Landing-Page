@@ -6,12 +6,16 @@ body {
     background-size: cover;
 }
 h1 {
-    color:teal:
+    color:rgb(245, 179, 218):
 }    
 h2 {
     color:whitesmoke;
-    text-align: left;
+    text-align:left;
 }
 h3 {
-    color:whitesmoke;
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+    font-style: italic;
 }
