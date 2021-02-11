@@ -5,6 +5,13 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
-h3 {
-
+h1 {
+    color:teal:
 }    
+h2 {
+    color:whitesmoke;
+    text-align: left;
+}
+h3 {
+    color:whitesmoke;
+}
