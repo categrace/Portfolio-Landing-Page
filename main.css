@@ -25,3 +25,7 @@ p{
 ul {
     color: turquoise;
 }
+ol {
+    color:powderblue;
+    font-style:bold;
+}
