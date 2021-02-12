@@ -1,6 +1,6 @@
 # Portfolio Landing page
 This is an Independent project consisting of a portfolio landing page
-###  Catherine Wachuka 
+###  Author:[Catherine Wachuka](https://github.com/categrace/Portfolio-Landing-Page.git)
 ## Technologies used
 -HTML
 
