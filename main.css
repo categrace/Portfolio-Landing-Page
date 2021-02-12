@@ -12,11 +12,11 @@ h1 {
     text-align: center;
 }    
 h2 {
-    color:whitesmoke;
+    color:mediumspringgreen;
     text-align:left;
 }
 h3 {
-    color: whitesmoke;
+    color:whitesmoke;
 }
 p{
     color: whitesmoke;
@@ -24,6 +24,9 @@ p{
 }
 ul {
     color: turquoise;
+    background-color: wheat;
+    padding:20px;
+    border: 10px;
 }
 ol {
     color:powderblue;
