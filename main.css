@@ -12,10 +12,12 @@ h1 {
     text-align: center;
 }    
 h2 {
+    font-weight: 100;
     color:mediumspringgreen;
     text-align:left;
 }
 h3 {
+    font-style: oblique;
     color:whitesmoke;
     font:oblique
 }
@@ -24,10 +26,10 @@ p  {
     font-style: italic;
 }
 ul {
-    color: white;
-    padding: 25px 50px;
-    border: 10px;
-    background:turquoise;
+    color: rgb(14, 138, 125);
+    padding: 20px;
+    border: 10px 10px;
+    background: white;
 }
 ol {
     color:powderblue;
